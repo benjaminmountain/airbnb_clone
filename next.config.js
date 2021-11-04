@@ -4,6 +4,7 @@ module.exports = {
       "mixingbowlhub.com",
       "upload.wikimedia.org",
       "links.papareact.com",
+      "jsonkeeper.com",
     ],
   },
 };
